@@ -25,10 +25,10 @@ DHT dht(DHTPIN, DHTTYPE);
 BlynkTimer CoreTimer;
 
 
-/* OLED */
-#include <ACROBOTIC_SSD1306.h> // library for OLED: SCL ==> D1; SDA ==> D2
-#include <SPI.h>
-#include <Wire.h>
+///* OLED */
+//#include <ACROBOTIC_SSD1306.h> // library for OLED: SCL ==> D1; SDA ==> D2
+//#include <SPI.h>
+//#include <Wire.h>
 
 
 
