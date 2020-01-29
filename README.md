@@ -24,3 +24,5 @@ Outra nota importante: este é um projeto que não deve ser utilizado profission
 ```Relay```: Relê que liga ou desliga a bomba de agua
 
 ### Esquema ###
+
+![Conexões](https://github.com/gilnei/jardimautomatico/blob/master/Jardim_bb.png)
